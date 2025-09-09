@@ -1,7 +1,7 @@
 Web / Software Developer
 ------------------------
 
-✉️  Contact me here: [grimzax@proton.me](mailto:grimzax@proton.me)
+Contact me here: [grimzax@proton.me](mailto:grimzax@proton.me)
 
 #### Skills
 
@@ -32,6 +32,6 @@ Web / Software Developer
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a>
 </p>
 
-### Support Me
+#### Support Me
 
 <p align="left">  <a href="https://www.ko-fi.com/rellease#"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a> </p>
